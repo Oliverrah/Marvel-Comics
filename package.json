@@ -1,0 +1,19 @@
+{
+  "name": "marvel-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "crypto-js": "^4.2.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
